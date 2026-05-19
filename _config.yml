@@ -2,3 +2,5 @@ name: ""
 title: null
 lang: ja
 locale: ja_JP
+plugins:
+  - jekyll-sitemap
