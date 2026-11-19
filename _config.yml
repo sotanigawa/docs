@@ -5,5 +5,6 @@ name: ""
 title: null
 lang: ja
 locale: ja_JP
+theme: jekyll-theme-primer
 plugins:
   - jekyll-sitemap
