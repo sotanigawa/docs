@@ -1,3 +1,6 @@
+# name を空文字、title を null にしておくと、GitHub Pages が
+# リポジトリ名「docs」をサイトのタイトルとして自動設定しなくなる。
+# （ページ上部に「docs」という見出しが出るのを防ぐため。消さないこと）
 name: ""
 title: null
 lang: ja
